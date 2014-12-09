@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Push.iml" filepath="$PROJECT_DIR$/Push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/TourBuilder.iml" filepath="$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/TourBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndroidProjects/ws/WithCommon/WithCommon.iml" filepath="$PROJECT_DIR$/../AndroidProjects/ws/WithCommon/WithCommon.iml" />
+    </modules>
+  </component>
+</project>

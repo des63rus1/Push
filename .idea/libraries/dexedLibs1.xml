@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dexedLibs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/withcommon-4c0b279f73be1447d3a1f8c11ea5e1c8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/slf4j-android-1.5.8-b89e0e924e54bf318046ffaa62572e46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/withcommon-8f39fd1e40a07b6aeb896bd2ef457f56.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/osmdroid-android-3.0.4-56cc414d2e5b84814cd773e1e4b362ca.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/osmdroid-android-3.0.4-b191846c419931350acf6f07acd8aaba.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/Parse-1.7.0-4045df0933f56aaed5746459d388a49b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/android-support-v4-62328a30f67a02bae805c9afbe41fecf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/slf4j-android-1.5.8-f7726437a1748e576448d1bcd64e8269.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/Parse-1.7.0-cc9d6a4e330d27b413354e79b57c74d4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AndroidProjects/ws/TourBuilder/bin/dexedLibs/android-support-v4-2a9af62fc6da1593af75d74880a0779d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
